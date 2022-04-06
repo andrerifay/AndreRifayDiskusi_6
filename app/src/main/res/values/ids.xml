@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="frameLayout" type="id" />
+    <item name="tabLayout" type="id" />
+    <item name="shapeName" type="id" />
+    <item name="shapeImage" type="id" />
+    <item name="linear1" type="id" />
+    <item name="textView" type="id" />
+</resources>
